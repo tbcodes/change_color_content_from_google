@@ -1,0 +1,28 @@
+/* Source code used in this vídeo:
+https://youtu.be/7UBrBo76DSM
+*/
+
+// Initial part
+
+var h1 = document.createElement('h1');
+
+h1.appendChild(document.createTextNode("Hello GOOGLE!!!"));
+
+document.body.appendChild(h1);
+
+// Center Text
+
+document.body.style.textAlign = 'center';
+
+// Change Background Color
+
+document.body.style.backgroundColor = 'fuchsia';
+
+
+// Final part
+
+document.querySelector('title');
+
+
+document.querySelector('h1');
+
